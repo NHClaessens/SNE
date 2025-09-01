@@ -1,7 +1,6 @@
 ---
 share: "true"
 ---
-
 Labs are mandatory pass/fail
 No exam
 Project course (like SSN)
